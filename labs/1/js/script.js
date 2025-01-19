@@ -1,3 +1,5 @@
+// chatGPT was used for this code
+
 class Note {
   constructor(id, content = "") {
     this.id = id;
